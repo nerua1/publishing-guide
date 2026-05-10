@@ -13,7 +13,7 @@ Użyj mojego loga (załączone — sylwetka Nerudek). Ma być małe, maksymalnie
 
 Główną przestrzeń (środkowe 70% wysokości) zostaw pustą z placeholderami "[TYTUŁ]" i "[PODTYTUŁ]" — tu będę wklejał treść. Ta strefa ma być największa i dominować.
 
-Na dole ciemny pasek z "@nerua1" po lewej i "github.com/nerua1" po prawej.
+Na dole ciemny pasek z "@nerudek" po lewej i "github.com/nerudek" po prawej.
 
 Resztę — tło, kolory, kompozycję — wymyśl sam. Ma wyglądać jak marka premium AI/tech. Coś co ludzie udostępniają bo dobrze wygląda.
 ```

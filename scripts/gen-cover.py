@@ -45,8 +45,8 @@ def gen(title, subtitle, output):
         draw.text((40, 260), subtitle, fill=(255,255,255,160), font=sub_font)
     
     # Bottom bar text
-    draw.text((40, H-55), "@nerua1", fill=(180,180,180), font=small_font)
-    draw.text((W-220, H-55), "github.com/nerua1", fill=(180,180,180), font=small_font)
+    draw.text((40, H-55), "@nerudek", fill=(180,180,180), font=small_font)
+    draw.text((W-220, H-55), "github.com/nerudek", fill=(180,180,180), font=small_font)
     
     img.save(output, "PNG", optimize=True)
     print(f"✅ {output} ({os.path.getsize(output)//1024}KB)")

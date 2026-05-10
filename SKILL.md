@@ -1,8 +1,8 @@
 ---
 name: publishing-guide
-description: Central publishing rules for nerua1 repos — naming convention, anti-duplicate, checklist, full inventory of all 25 public repos. Use before every skill publication.
+description: Central publishing rules for nerudek repos — naming convention, anti-duplicate, checklist, full inventory of all 25 public repos. Use before every skill publication.
 version: "1.2.0"
-author: nerua1
+author: nerudek
 license: MIT
 compatible-with: claude-code, openclaw, hermes-agent
 ---
@@ -14,7 +14,7 @@ compatible-with: claude-code, openclaw, hermes-agent
 - NEVER duplicate: check GitHub + ClawHub before creating
 
 ## 2. Anti-duplicate Rule
-- Search GitHub: gh search repos --owner nerua1 NAZWA
+- Search GitHub: gh search repos --owner nerudek NAZWA
 - Search ClawHub: npx clawhub search NAZWA
 - Search local: ls ~/.hermes/skills ~/.openclaw/workspace/skills
 
@@ -35,7 +35,7 @@ compatible-with: claude-code, openclaw, hermes-agent
 | god-mode-skill | skill | active |
 | hermes-agent | skill | active |
 | multi-agent-harness | vault | active |
-| nerua1 | profile | active |
+| nerudek | profile | active |
 | nerudek-platform | platform | active |
 | openclaw | vault | active |
 | openclaw-bridge | vault | active |
@@ -47,7 +47,7 @@ compatible-with: claude-code, openclaw, hermes-agent
 | skill-cancel | skill | OpenClaw-only |
 | skill-github-promotion | skill | active |
 | skill-install-pipeline | tool | OpenClaw-only |
-| skill-nerua1-workspace | vault | active |
+| skill-nerudek-workspace | vault | active |
 | skill-note | skill | OpenClaw-only |
 | skill-ralph | skill | DEPRECATED |
 | skill-ram-negotiation | skill | active |

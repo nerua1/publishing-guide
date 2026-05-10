@@ -1,6 +1,6 @@
-# nerua1 Public Repository Inventory (updated 2026-05-10)
+# nerudek Public Repository Inventory (updated 2026-05-10)
 
-25 public repos on github.com/nerua1
+25 public repos on github.com/nerudek
 
 | # | Repo | Type | Status |
 |---|------|------|--------|
@@ -9,7 +9,7 @@
 | 3 | god-mode-skill | skill | active — prompt engineering (ULTRAPLINIAN→Ultra-Plinian fixed) |
 | 4 | hermes-agent | skill | active — Hermes agent docs |
 | 5 | multi-agent-harness | vault | active — HARNESS.md, paths fixed |
-| 6 | nerua1 | profile | active — SKILL.md added 2026-05-07 |
+| 6 | nerudek | profile | active — SKILL.md added 2026-05-07 |
 | 7 | nerudek-platform | platform | active |
 | 8 | openclaw | vault | active |
 | 9 | openclaw-bridge | vault | OpenClaw-only — compatible-with: openclaw |
@@ -21,7 +21,7 @@
 | 15 | skill-cancel | skill | HERMES — SKILL.hermes.md added (hermes-agent native) |
 | 16 | skill-github-promotion | skill | active — copy-paste bug fixed |
 | 17 | skill-install-pipeline | tool | HERMES — SKILL.hermes.md added (no ClawHub dependency) |
-| 18 | skill-nerua1-workspace | vault | active |
+| 18 | skill-nerudek-workspace | vault | active |
 | 19 | skill-note | skill | HERMES — SKILL.hermes.md added (memory() tool native) |
 | 20 | skill-ralph | skill | DEPRECATED — use ralph-wiggum-loop |
 | 21 | skill-ram-negotiation | skill | active |
